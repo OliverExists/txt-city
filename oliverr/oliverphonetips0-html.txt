@@ -1,0 +1,76 @@
+5 Phone Tips I Wish I Knew Sooner (iOS or Android)
+Date: 6/28/2025 Author: Oliver R.
+
+🔁 1. Text Shortcuts for Instant Typing
+Tired of typing the same long phrases over and over? Here’s how to make your phone do it for you.
+
+What Does it Do?
+Turns short codes into full phrases. For example, typing @@e can insert your full email address.
+
+How do I do it?
+iOS: Settings > General > Keyboard > Text Replacement
+
+Android (Gboard): Gboard > Dictionary > Personal Dictionary
+
+bis → a link to your digital business card
+ytb → your YouTube channel
+mail → your email address
+📋 2. Clipboard History Access
+Need to copy and paste more than one thing? You're in luck.
+
+What Does it Do?
+Gives you access to multiple copied items, like a mini clipboard manager.
+
+How do I do it?
+Android: Open Gboard, tap the clipboard icon, and turn it on. Tap items to paste.
+
+iOS: Use apps like Paste, Clipboard++, or Anybuffer for clipboard history
+
+🔁 👆 3. Back Tap — Your Phone’s Hidden Button *(Not available on all models)*
+Yes, really — the back of your phone can be a secret shortcut button.
+
+What Does it Do?
+Double or triple-tapping the back of your phone can trigger actions like screenshots or flashlight toggle.
+
+How do I do it?
+iOS: Settings > Accessibility > Touch > Back Tap
+
+Android:
+Pixel & similar phones: Settings > System > Gestures > Quick Tap
+Other Phone Models: Use third-party apps like Tap, Tap
+
+Take a screenshot
+Launch an app
+Toggle flashlight
+Activate Google Gemini or Siri
+📦 4. Hidden File Finder
+Downloaded something but can’t figure out where it went? This fixes that.
+
+What Does it Do?
+Helps you instantly find downloaded files without digging through folders.
+
+How do I do it?
+iOS: Swipe down on the home screen and use Spotlight Search to find files by name or type.
+
+Android: Open Files by Google (or similar app), then search or filter by type (.PDF, .APK, etc.)
+
+Pro Tip: Files by Google also shows large files and duplicates, its great for deleting files for more storage.
+
+🔁🌙 5. Custom Focus Modes & DND Profiles
+Make your phone adapt to your life, not the other way around.
+
+What Does it Do?
+Lets you block distractions and only allow what matters, whether you're working, gaming, or trying to sleep.
+
+How do I do it?
+iOS: Settings > Focus → Create a new mode
+
+Android: Settings > Digital Wellbeing or Do Not Disturb > Schedules
+
+If you liked this, we recommend checking out our other articles!
+
+HACKING.CITY LEGAL STUFF BELOW:
+
+Article Published by: Oliver R.
+All media on this page is the authors own opinion. Content on this page is not legal advice, and is shared purely for Educational/Entertainment purposes. We are not affiliated with any brands on this page.
+© 2025 Hacking.city. All rights reserved.
